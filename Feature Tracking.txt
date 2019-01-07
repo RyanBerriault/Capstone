@@ -1,0 +1,53 @@
+Time on prototype build [ 25Hr ] 
+
+Todo: 
+
+- Audio Control + Buttons 
+
+- Time Control + Buttons 
+
+- Arm Height Activated HUD Element 
+
+Future:
+
+Solar System Blueprint: 
+
+- BP Planet, System
+- System/Map Generation
+- Fill Info PopUp
+
+Additional Asset Acquisition: 
+
+- Micro AI Traders 
+- Thruster Trail 
+- Planet Trade/Goods 
+
+Economy & Logistics: 
+
+- Trade Master Lookup 
+- Sort/Filterable Lists 
+- Prices of good / Time Charts 
+
+
+Complete:
+
+Initial Asset Search: 
+- Get Space Skybox Assets
+- Get UI SFX
+- Get Ambient Music 
+- Create Spinning Planets Through Materials 
+- Create Materials for Sun, Moon, Barren, Lava, Frozen, Earth Like
+
+Moving Around The World:
+- Actors Rotating Around a Point 
+- Camera System
+- Camera Navigation for Full Rotation Around a Focal Point 
+
+Birth of a UI: 
+- Player HUD 
+- Drag/Movable PopUI Windows That Close
+- Open PopUps for Focal Points 
+- Create UI Theme & Design 
+
+Misc: 
+- Source Control
